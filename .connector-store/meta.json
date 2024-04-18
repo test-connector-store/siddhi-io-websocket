@@ -1,0 +1,19 @@
+{
+    "name": "websocket",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-websocket/",
+    "description": "The siddhi-io-websocket extension is an extension to Siddhi that allows to receive and publish events through WebSocket.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-io",
+        "websocket"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
